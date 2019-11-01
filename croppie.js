@@ -1,5 +1,5 @@
 /*************************
- * Croppie
+ * Croppie custom
  * Copyright 2019
  * Foliotek
  * Version: 2.6.4
